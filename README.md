@@ -1,4 +1,4 @@
-# Fictional-Dataset-EDA
+# Fictional Dataset EDA
 This is the repository for an exploratory data analysis on a fictional dataset containing 150000 rows and 6 columns.  The dataset can be found on the Kaggle link below: 
 
 [click here](https://www.kaggle.com/carlolepelaars/toy-dataset)
